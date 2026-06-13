@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+moviepy
+edge-tts
+requests
+openai-whisper
+torch
+torchaudio
+torchvision
+numpy
+pydantic
+python-multipart
